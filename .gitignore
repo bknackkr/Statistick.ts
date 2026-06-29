@@ -10,9 +10,9 @@ yarn-error.log*
 
 .vscode/*
 
+.DS_Store
 src/.env
 src/statistick.db
 .idea/
-node_modules/
 dist/
 *.log
